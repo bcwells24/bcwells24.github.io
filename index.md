@@ -1,6 +1,6 @@
 Test\
 **Bold**\
-Italics*
+Italics
 # H1
 ## H2
 ### H3

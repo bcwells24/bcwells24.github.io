@@ -6,6 +6,7 @@ The artifact selected for enhancements in the areas of Software Deisgn and Engin
 [Inventory Application Artifact](https://github.com/bcwells24/CS360/tree/main/Inventory%20Management%20App)
 
 ### Code Review
+{% include youtube.html id="VIDEO_ID" %}
 
 ## Enhancement 1: Software Design and Engineering
 ## Enhancement 2: Algorithms and Data Structures 

@@ -1,8 +1,19 @@
-## Professional Self Assessment
+## Professional Self Assessment  
 
-## Artifact
+My journey with computer science started in 2018 when I took an introductory course at my local community college. I did not learn how to code but learned about the most basic concepts. I re-enrolled in college in 2023 at Southern New Hampshire University, in the Computer Science Program. Since then, I have been rigorously pursuing the curriculum, which has culminated in this ePortfolio. 
 
-The artifact selected for enhancements in the areas of Software Deisgn and Engineering, Algorithms and Data Structures, and Databases is an Android mobile application developed at SNHU in the CS360 class, which was centered around Mobile Architecture and Programming. This artifact is selected from a pool of many projects becuase it provided a good baseline with room for many imporvements that could be revisited after taking additional courses at SNHU. The original intent of the application was to track inventory items, with the app centered around having a main data table visible to the user and give the user the ability to perform CRUD (Create, Read, Update, Delete) functions within the application, altering the data in the database. An additional requirement of this application was to send an SMS notification to the user’s phone number when any inventory item in the database reached a stock level of zero. This application was created in 2024 for the course and was progressively built with robust planning, User Interface design, and coding functionality into the application with Java. <br>  
+Completing my computer science coursework and developing an ePortfolio has strengthened my technical skills, shaped my professional goals, and prepared me for a successful career. Despite being an online program, I have had the opportunity to collaborate with hundreds of other students and learn from them as well as professors offering an incredibly wide range of expertise and experience. 
+
+Communicating with stakeholders became a key competency as I presented project proposals, documented code, and explained technical concepts to non-technical audiences. Generally, this stakeholder involvement was in the form of understanding project requirements and asking questions when necessary. My work in Client Server Development revolved around this communication in understanding the requirements for Grazioso Salvare, an animal rescue/training entity. 
+
+This software engineering and database coursework provided hands-on experience in full-stack development, relational database design, and CRUD operations, ensuring I can build and maintain applications. Security principles, including encryption and authentication, helped me understand how to develop secure software solutions and implement them in Full-Stack Development by building a web application for Travlr Getaways, an online travel agency. 
+
+These experiences, beyond the artifact presented here in my ePortfolio, have refined my ability to collaborate, communicate effectively, and apply core computer science principles, preparing me for more technical work in my field. The enhancements presented here are the culmination of the Computer Science Program at SNHU.
+
+
+## The Artifact
+
+Selected for enhancements in the areas of Software Deisgn and Engineering, Algorithms and Data Structures, and Databases this artifact is an Android mobile application developed in the Mobile Architecture and Programming course (CS360). This artifact is selected from a pool of many projects becuase it provided a good baseline with room for many imporvements that could be revisited after taking additional courses at SNHU. The original intent of the application was to track inventory items, with the app centered around having a main data table visible to the user and give the user the ability to perform CRUD (Create, Read, Update, Delete) functions within the application, altering the data in the database. An additional requirement of this application was to send an SMS notification to the user’s phone number when any inventory item in the database reached a stock level of zero. This application was created in 2024 for the course and was progressively built with robust planning, User Interface design, and coding functionality into the application with Java. <br>  
 The original application can be seen here:  
 [Inventory Application Artifact](https://github.com/bcwells24/CS360/tree/main/Inventory%20Management%20App)
 

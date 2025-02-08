@@ -55,9 +55,9 @@ The database enhancement successfully addressed all course outcomes. Outcome 1 w
 ## Fully Enhanced Artifact
 
 The enhanced application is avaiable here:  
-[Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499/tree/WIP4)
+[Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499)
 
 Screenshot demonstrations of the new application can be seen here:
-[Enhanced Application Walkthrough](link)
+[Enhanced Application Walkthrough](https://github.com/bcwells24/CS499/blob/main/Feature%20Walkthrough.docx)
 
 

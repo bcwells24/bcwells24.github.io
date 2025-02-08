@@ -2,7 +2,7 @@
 
 ## Artifact
 
-The artifact selected for enhancements in the areas of Software Deisgn and Engineering, Algorithms and Data Structures, and Databases is an Android mobile application developed at SNHU in the CS360 class, which was centered around Mobile Architecture and Programming. This artifact as selected from a pool of many projects becuase it provided a good baseline with room for many imporvements that could be revisited after taking additional courses at SNHU. The original intent of the application was to track inventory items, with the app centered around having a main data table visible to the user and give the user the ability to perform CRUD (Create, Read, Update, Delete) functions within the application, altering the data in the database. An additional requirement of this application was to send an SMS notification to the user’s phone number when any inventory item in the database reached a stock level of zero. This application was created in 2024 for the course and was progressively built with robust planning, User Interface design, and coding functionality into the application with Java. <br>  
+The artifact selected for enhancements in the areas of Software Deisgn and Engineering, Algorithms and Data Structures, and Databases is an Android mobile application developed at SNHU in the CS360 class, which was centered around Mobile Architecture and Programming. This artifact is selected from a pool of many projects becuase it provided a good baseline with room for many imporvements that could be revisited after taking additional courses at SNHU. The original intent of the application was to track inventory items, with the app centered around having a main data table visible to the user and give the user the ability to perform CRUD (Create, Read, Update, Delete) functions within the application, altering the data in the database. An additional requirement of this application was to send an SMS notification to the user’s phone number when any inventory item in the database reached a stock level of zero. This application was created in 2024 for the course and was progressively built with robust planning, User Interface design, and coding functionality into the application with Java. <br>  
 The original application can be seen here:  
 [Inventory Application Artifact](https://github.com/bcwells24/CS360/tree/main/Inventory%20Management%20App)
 
@@ -50,6 +50,14 @@ While migrating to Firestore was relatively straightforward due to Google's easy
 The enhancement showcased a range of advanced skills in mobile and backend development. These include proficiency in database management across relational and non-relational paradigms, cloud integration with Firebase, and implementation of real-time data syncing. Proficiency in cryptography by adding AES/GCM encryption for password protection was demonstrated with this enhancement. The project also highlighted skills in cloud computing, mobile-backend integration, and the ability to adapt to modern cloud-based architectures. Furthermore, the creation of data seeding scripts demonstrated versatility in full-stack development techniques.  
 <br>
 **Course Outcomes**
-The database enhancement successfully addressed all course outcomes. Outcome 1 was achieved by creating a more collaborative environment through cloud-based data storage. Outcome 2 was demonstrated through clear code documentation and professional communication of the enhancement plan. Outcome 3 was met by evaluating and implementing trade-offs in choosing a cloud-based database solution. Outcome 4 was fulfilled by employing innovative techniques in modernizing the application's database structure. Unexpectedly, Outcome 5 was also addressed by implementing advanced security measures, showcasing a proactive security mindset in anticipating potential vulnerabilities.  
+The database enhancement successfully addressed all course outcomes. Outcome 1 was achieved by creating a more collaborative environment through cloud-based data storage. Outcome 2 was demonstrated through clear code documentation and professional communication of the enhancement plan. Outcome 3 was met by evaluating and implementing trade-offs in choosing a cloud-based database solution. Outcome 4 was fulfilled by employing innovative techniques in modernizing the application's database structure. Unexpectedly, Outcome 5 was also addressed by implementing advanced security measures, showcasing a proactive security mindset in anticipating potential vulnerabilities. 
+
+## Fully Enhanced Artifact
+
+The enhanced application is avaiable here:  
+[Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499/tree/WIP4)
+
+Screenshot demonstrations of the new application can be seen here:
+[Enhanced Application Walkthrough](link)
 
 

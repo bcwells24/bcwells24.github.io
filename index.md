@@ -12,16 +12,16 @@ The original application can be seen here:
 
 
 ## Enhancement 1: Software Design and Engineering
-**Improvements**
+**<ins>Improvements</ins>**
 This enhancement significantly improved the artifact by rewriting the code from Java to Kotlin, aligning with Google's Android development standards. The refactoring process restructured the application into distinct data, middleware, and presentation layers, dramatically improving code modularity and scalability. By separating utilities like sorting and SMS management, the code became more organized and maintainable.  
 <br>
-**Challenges Encountered**
+**<ins>Challenges Encountered</ins>**
 Converting the existing Java codebase to Kotlin presented the primary challenge, as Kotlin was a relatively new language to me. The process required systematic method-by-method conversion to prevent feeling overwhelmed. Deliberately avoiding automated conversion tools ensured a deeper learning experience and more intentional code transformation. The enhancement felt almost like creating a brand new application, requiring significant mental reframing of the existing project. 
 <br>  
-**Skills Demonstrated**
+**<ins>Skills Demonstrated</ins>**
 The enhancement showcased many computer science skills, including full-stack development capabilities, advanced software design and engineering expertise, and multi-language programming proficiency. This enhancement demonstrated the ability to create a comprehensive application connecting presentation and backend layers, refactor complex codebases, and adapt to modern programming languages. Mobile application development skills for the Android platform were also prominently displayed through this enhancement.  
 <br>
-**Course Outcomes**
+**<ins>Course Outcomes</ins>**
 The enhancement directly addressed and met course outcomes focused on designing computing solutions following algorithmic principles and implementing computing solutions meeting industry standards. By refactoring the codebase and migrating to Kotlin, this showcased the ability to manage design trade-offs and utilize well-founded techniques in refactoring the code into distinct layers creating more modularity in the code base.
 
 ## Enhancement 2: Algorithms and Data Structures

@@ -35,7 +35,7 @@ The enhancement showcased many computer science skills, including full-stack dev
 **Course Outcomes**  
 The enhancement directly addressed and met course outcomes focused on designing computing solutions following algorithmic principles and implementing computing solutions meeting industry standards. By refactoring the codebase and migrating to Kotlin, this showcased the ability to manage design trade-offs and utilize well-founded techniques in refactoring the code into distinct layers creating more modularity in the code base.
 
-[Full Enhancement 1 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%201%20Narrative.docx)
+[Full Enhancement 1 Narrative](https://github.com/bcwells24/bcwells24.github.io/blob/main/Enhancement%201%20Narrative.md)
 ## Enhancement 2: Algorithms and Data Structures
 
 **Improvements**  
@@ -50,7 +50,7 @@ The enhancement showcased advanced technical skills in data structure implementa
 **Course Outcomes**  
 The enhancement successfully met course outcomes by demonstrating critical thinking in algorithm selection, creating adaptable solutions, and implementing strong software engineering practices. The project showcased the ability to evaluate algorithmic trade-offs, design efficient search solutions, and maintain a security-focused approach to software development. These outcomes were achieved through thoughtful implementation of HashMap and Heap Sort algorithms, with careful attention to performance and user experience.  
 
-[Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%202%20Narrative.docx)
+[Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%202%20Narrative.docx){:target="_blank"}
 ## Enhancement 3: Databases
 
 **Improvements**  

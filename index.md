@@ -17,7 +17,7 @@ These experiences, beyond the artifact presented here in my ePortfolio, have ref
 4.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
-#### [Original Enhancement Plan]
+#### [Original Enhancement Plan](https://github.com/bcwells24/bcwells24.github.io/blob/main/assets/pdf/Artifact%20Enhancement%20Plan.pdf){:target="_blank"}
 
 
 ## The Artifact

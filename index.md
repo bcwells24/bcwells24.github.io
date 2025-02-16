@@ -1,4 +1,4 @@
-## Professional Self Assessment  
+# Professional Self Assessment  
 
 My journey with computer science started in 2018 when I took an introductory course at my local community college. I did not learn how to code but learned about the most basic concepts. I re-enrolled in college in 2023 at Southern New Hampshire University, in the Computer Science Program. Since then, I have been rigorously pursuing the curriculum, which has culminated in this ePortfolio. 
 
@@ -8,28 +8,28 @@ Communicating with stakeholders became a key competency as I presented project p
 
 This software engineering and database coursework provided hands-on experience in full-stack development, relational database design, and CRUD operations, ensuring I can build and maintain applications. Security principles, including encryption and authentication, helped me understand how to develop secure software solutions and implement them in Full-Stack Development by building a web application for Travlr Getaways, an online travel agency. 
 
-These experiences, beyond the artifact presented here in my ePortfolio, have refined my ability to collaborate, communicate effectively, and apply core computer science principles, preparing me for more technical work in my field. The enhancements presented here are the culmination of the Computer Science Program at SNHU.
+These experiences, beyond the artifact presented here in my ePortfolio, have refined my ability to collaborate, communicate effectively, and apply core computer science principles, preparing me for more technical work in my field. The enhancements presented here are the culmination of the Computer Science Program at SNHU.  
 
 ### Course Outcomes
 1.	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
 2.	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
 3.	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
 4.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
-5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
 
-#### [Original Enhancement Plan](https://github.com/bcwells24/bcwells24.github.io/blob/main/assets/pdf/Artifact%20Enhancement%20Plan.pdf){:target="_blank"}  
-
-
-## The Artifact
+# The Artifact
 
 Selected for enhancements in the areas of Software Deisgn and Engineering, Algorithms and Data Structures, and Databases this artifact is an Android mobile application developed in the Mobile Architecture and Programming course (CS360). This artifact is selected from a pool of many projects becuase it provided a good baseline with room for many imporvements that could be revisited after taking additional courses at SNHU. The original intent of the application was to track inventory items, with the app centered around having a main data table visible to the user and give the user the ability to perform CRUD (Create, Read, Update, Delete) functions within the application, altering the data in the database. An additional requirement of this application was to send an SMS notification to the user’s phone number when any inventory item in the database reached a stock level of zero. This application was created in 2024 for the course and was progressively built with extensive planning, User Interface design, and coding functionality into the application with Java. <br>  
 
-The original application can be seen here:  
-### [Inventory Application Artifact](https://github.com/bcwells24/CS360/tree/main/Inventory%20Management%20App){:target="_blank"}  
+The work on this artifact included reviewing the artifact creating a plan, and conducting a code review.  
 
-### [Code Review Video](https://youtu.be/Ts-C0oCHXqg){:target="_blank"}
+#### [Inventory Application Artifact](https://github.com/bcwells24/CS360/tree/main/Inventory%20Management%20App){:target="_blank"} 
 
-## Enhancement 1: Software Design and Engineering
+#### [Original Enhancement Plan](https://github.com/bcwells24/bcwells24.github.io/blob/main/assets/pdf/Artifact%20Enhancement%20Plan.pdf){:target="_blank"} 
+
+#### [Code Review Video](https://youtu.be/Ts-C0oCHXqg){:target="_blank"}
+
+# Enhancement 1: Software Design and Engineering
 **Improvements**  
 This enhancement significantly improved the artifact by rewriting the code from Java to Kotlin, aligning with Google's Android development standards. The refactoring process restructured the application into distinct data, middleware, and presentation layers, dramatically improving code modularity and scalability. By separating utilities like sorting and SMS management, the code became more organized and maintainable.  
 <br>
@@ -45,7 +45,7 @@ The enhancement directly addressed and met course outcomes focused on designing 
 #### [Full Enhancement 1 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%201%20Narrative.pdf){:target="_blank"}  
 <iframe src="/assets/pdf/Enhancement%201%20Narrative.pdf" width="100%" height="600px"></iframe>  
 
-## Enhancement 2: Algorithms and Data Structures
+# Enhancement 2: Algorithms and Data Structures
 
 **Improvements**  
 This enhancement significantly improved the artifact by adding search and sort functionalities to the inventory management system. A HashMap-based search feature offers fast performance with O(1) average time complexity, ensuring consistent search times regardless of dataset size. The Heap Sort algorithm enables efficient alphabetical sorting of inventory items, reducing user time spent finding items and making the application more user-friendly for large datasets.  
@@ -65,7 +65,7 @@ The enhancement successfully met course outcomes by demonstrating critical think
 
 <iframe src="/assets/pdf/Enhancement%202%20Narrative.pdf" width="100%" height="600px"></iframe>
 
-## Enhancement 3: Databases
+# Enhancement 3: Databases
 
 **Improvements**  
 The application was significantly improved by replacing the local SQLite database with a cloud-based NoSQL Firestore database. This migration enabled real-time inventory tracking for multiple users, increased schema flexibility, and improved scalability. The enhancement also addressed a critical security vulnerability by implementing AES/GCM encryption for password storage, utilizing Android's Keystore system for secure key management. These changes transformed the application from a device-specific tool to a more versatile, secure, and collaborative platform.  
@@ -81,9 +81,11 @@ The database enhancement successfully addressed all course outcomes. Outcome 1 w
 
 #### [Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}   
 
-#### <u>[Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}    
+#### [Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}    
 <iframe src="/assets/pdf/Enhancement%203%20Narrative.pdf" width="100%" height="600px"></iframe>
+
+## The Final Product
 
 #### [Fully Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499){:target="_blank"}  
 
-##### [Screenshot demonstrations of the new application](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf){:target="_blank"}  
+##### [Screenshot Demonstrations of the New Application](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf){:target="_blank"}  

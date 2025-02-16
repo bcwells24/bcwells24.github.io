@@ -17,16 +17,17 @@ These experiences, beyond the artifact presented here in my ePortfolio, have ref
 4.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
-#### <u>[Original Enhancement Plan](https://github.com/bcwells24/bcwells24.github.io/blob/main/assets/pdf/Artifact%20Enhancement%20Plan.pdf){:target="_blank"}</u> 
+#### [Original Enhancement Plan](https://github.com/bcwells24/bcwells24.github.io/blob/main/assets/pdf/Artifact%20Enhancement%20Plan.pdf){:target="_blank"}  
 
 
 ## The Artifact
 
 Selected for enhancements in the areas of Software Deisgn and Engineering, Algorithms and Data Structures, and Databases this artifact is an Android mobile application developed in the Mobile Architecture and Programming course (CS360). This artifact is selected from a pool of many projects becuase it provided a good baseline with room for many imporvements that could be revisited after taking additional courses at SNHU. The original intent of the application was to track inventory items, with the app centered around having a main data table visible to the user and give the user the ability to perform CRUD (Create, Read, Update, Delete) functions within the application, altering the data in the database. An additional requirement of this application was to send an SMS notification to the user’s phone number when any inventory item in the database reached a stock level of zero. This application was created in 2024 for the course and was progressively built with extensive planning, User Interface design, and coding functionality into the application with Java. <br>  
-The original application can be seen here:  
-<u>[Inventory Application Artifact](https://github.com/bcwells24/CS360/tree/main/Inventory%20Management%20App){:target="_blank"}</u>
 
-### <u>[Code Review Video](https://youtu.be/Ts-C0oCHXqg){:target="_blank"}</u>
+The original application can be seen here:  
+### [Inventory Application Artifact](https://github.com/bcwells24/CS360/tree/main/Inventory%20Management%20App){:target="_blank"}  
+
+### [Code Review Video](https://youtu.be/Ts-C0oCHXqg){:target="_blank"}
 
 ## Enhancement 1: Software Design and Engineering
 **Improvements**  
@@ -41,7 +42,7 @@ The enhancement showcased many computer science skills, including full-stack dev
 **Course Outcomes**  
 The enhancement directly addressed and met course outcomes focused on designing computing solutions following algorithmic principles and implementing computing solutions meeting industry standards. By refactoring the codebase and migrating to Kotlin, this showcased the ability to manage design trade-offs and utilize well-founded techniques in refactoring the code into distinct layers creating more modularity in the code base.
 
-#### <u>[Full Enhancement 1 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%201%20Narrative.pdf){:target="_blank"}</u>  
+#### [Full Enhancement 1 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%201%20Narrative.pdf){:target="_blank"}  
 <iframe src="/assets/pdf/Enhancement%201%20Narrative.pdf" width="100%" height="600px"></iframe>  
 
 ## Enhancement 2: Algorithms and Data Structures
@@ -58,9 +59,9 @@ The enhancement showcased advanced technical skills in data structure implementa
 **Course Outcomes**  
 The enhancement successfully met course outcomes by demonstrating critical thinking in algorithm selection, creating adaptable solutions, and implementing software engineering practices. The ability to evaluate algorithmic trade-offs, design efficient search solutions, and maintain a security-focused approach to software development was showcased. These outcomes were achieved through thoughtful implementation of HashMap and Heap Sort algorithms, with careful attention to performance and user experience.  
 
-#### <u>[Features Video](https://youtu.be/OMkE3mFA_lc){:target="_blank"}</u>    
+#### [Features Video](https://youtu.be/OMkE3mFA_lc){:target="_blank"}  
 
-#### <u>[Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf){:target="_blank"}</u>    
+#### [Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf){:target="_blank"}    
 
 <iframe src="/assets/pdf/Enhancement%202%20Narrative.pdf" width="100%" height="600px"></iframe>
 
@@ -78,14 +79,11 @@ The enhancement showcased a range of advanced skills in mobile and backend devel
 **Course Outcomes**  
 The database enhancement successfully addressed all course outcomes. Outcome 1 was achieved by creating a more collaborative environment through cloud-based data storage. Outcome 2 was demonstrated through clear code documentation and professional communication of the enhancement plan. Outcome 3 was met by evaluating and implementing trade-offs in choosing an appropriate cloud-based database solution. Outcome 4 was fulfilled by employing innovative techniques in modernizing the application's database structure. While origianlly unplanned, Outcome 5 was also addressed by implementing advanced security measures, showcasing a proactive security mindset in anticipating potential vulnerabilities that were found when implementing this enhancement.    
 
-#### <u>[Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}</u>  
+#### [Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}   
 
-#### <u>[Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}</u>  
+#### <u>[Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}    
 <iframe src="/assets/pdf/Enhancement%203%20Narrative.pdf" width="100%" height="600px"></iframe>
 
-#### <u>[Fully Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499){:target="_blank"}</u>
+#### [Fully Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499){:target="_blank"}  
 
-Screenshot demonstrations of the new application can be seen here:  
-<u>[Enhanced Application Walkthrough](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf){:target="_blank"}</u>
-
-
+##### [Screenshot demonstrations of the new application](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf){:target="_blank"}  

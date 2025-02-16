@@ -58,7 +58,9 @@ The enhancement successfully met course outcomes by demonstrating critical think
 
 <iframe id="pdf-viewer" src="https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf" width="100%" height="600px"></iframe>  
 
-iframe src="https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf" width="100%" height="600px"></iframe>  
+<iframe src="https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf" width="100%" height="600px"></iframe>  
+
+<iframe src="/assets/pdf/Enhancement%202%20Narrative.pdf" width="100%" height="600px"></iframe> 
 
 ## Enhancement 3: Databases
 

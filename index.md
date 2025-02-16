@@ -35,7 +35,7 @@ The enhancement showcased many computer science skills, including full-stack dev
 **Course Outcomes**  
 The enhancement directly addressed and met course outcomes focused on designing computing solutions following algorithmic principles and implementing computing solutions meeting industry standards. By refactoring the codebase and migrating to Kotlin, this showcased the ability to manage design trade-offs and utilize well-founded techniques in refactoring the code into distinct layers creating more modularity in the code base.
 
-[Full Enhancement 1 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%201%20Narrative.pdf))
+[Full Enhancement 1 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%201%20Narrative.pdf)
 ## Enhancement 2: Algorithms and Data Structures
 
 **Improvements**  
@@ -50,7 +50,7 @@ The enhancement showcased advanced technical skills in data structure implementa
 **Course Outcomes**  
 The enhancement successfully met course outcomes by demonstrating critical thinking in algorithm selection, creating adaptable solutions, and implementing strong software engineering practices. The project showcased the ability to evaluate algorithmic trade-offs, design efficient search solutions, and maintain a security-focused approach to software development. These outcomes were achieved through thoughtful implementation of HashMap and Heap Sort algorithms, with careful attention to performance and user experience.  
 
-[Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%202%20Narrative.pdf)
+[Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf)
 ## Enhancement 3: Databases
 
 **Improvements**  
@@ -65,13 +65,13 @@ The enhancement showcased a range of advanced skills in mobile and backend devel
 **Course Outcomes**  
 The database enhancement successfully addressed all course outcomes. Outcome 1 was achieved by creating a more collaborative environment through cloud-based data storage. Outcome 2 was demonstrated through clear code documentation and professional communication of the enhancement plan. Outcome 3 was met by evaluating and implementing trade-offs in choosing a cloud-based database solution. Outcome 4 was fulfilled by employing innovative techniques in modernizing the application's database structure. Unexpectedly, Outcome 5 was also addressed by implementing advanced security measures, showcasing a proactive security mindset in anticipating potential vulnerabilities. 
 
-[Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%203%20Narrative.pdf)
+[Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf)
 ## Fully Enhanced Artifact
 
 The enhanced application is avaiable here:  
 [Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499)
 
 Screenshot demonstrations of the new application can be seen here:  
-[Enhanced Application Walkthrough](https://github.com/bcwells24/CS499/blob/main/Feature%20Walkthrough.pdf)
+[Enhanced Application Walkthrough](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf)
 
 

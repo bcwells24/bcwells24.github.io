@@ -15,10 +15,10 @@ These experiences, beyond the artifact presented here in my ePortfolio, have ref
 
 Selected for enhancements in the areas of Software Deisgn and Engineering, Algorithms and Data Structures, and Databases this artifact is an Android mobile application developed in the Mobile Architecture and Programming course (CS360). This artifact is selected from a pool of many projects becuase it provided a good baseline with room for many imporvements that could be revisited after taking additional courses at SNHU. The original intent of the application was to track inventory items, with the app centered around having a main data table visible to the user and give the user the ability to perform CRUD (Create, Read, Update, Delete) functions within the application, altering the data in the database. An additional requirement of this application was to send an SMS notification to the user’s phone number when any inventory item in the database reached a stock level of zero. This application was created in 2024 for the course and was progressively built with robust planning, User Interface design, and coding functionality into the application with Java. <br>  
 The original application can be seen here:  
-[Inventory Application Artifact](https://github.com/bcwells24/CS360/tree/main/Inventory%20Management%20App)
+[Inventory Application Artifact](https://github.com/bcwells24/CS360/tree/main/Inventory%20Management%20App){:target="_blank"}
 
 ### Code Review
-[View on YouTube](https://youtu.be/Ts-C0oCHXqg)
+[View on YouTube](https://youtu.be/Ts-C0oCHXqg){:target="_blank"}
 
 
 
@@ -35,7 +35,7 @@ The enhancement showcased many computer science skills, including full-stack dev
 **Course Outcomes**  
 The enhancement directly addressed and met course outcomes focused on designing computing solutions following algorithmic principles and implementing computing solutions meeting industry standards. By refactoring the codebase and migrating to Kotlin, this showcased the ability to manage design trade-offs and utilize well-founded techniques in refactoring the code into distinct layers creating more modularity in the code base.
 
-[Full Enhancement 1 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%201%20Narrative.pdf)  
+[Full Enhancement 1 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%201%20Narrative.pdf){:target="_blank"}  
 
 <iframe src="/assets/pdf/Enhancement%201%20Narrative.pdf" width="100%" height="600px"></iframe>  
 
@@ -53,7 +53,7 @@ The enhancement showcased advanced technical skills in data structure implementa
 **Course Outcomes**  
 The enhancement successfully met course outcomes by demonstrating critical thinking in algorithm selection, creating adaptable solutions, and implementing strong software engineering practices. The project showcased the ability to evaluate algorithmic trade-offs, design efficient search solutions, and maintain a security-focused approach to software development. These outcomes were achieved through thoughtful implementation of HashMap and Heap Sort algorithms, with careful attention to performance and user experience.  
 
-[Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf)   
+[Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf){:target="_blank"}    
 
 <iframe src="/assets/pdf/Enhancement%202%20Narrative.pdf" width="100%" height="600px"></iframe>  
 
@@ -71,14 +71,13 @@ The enhancement showcased a range of advanced skills in mobile and backend devel
 **Course Outcomes**  
 The database enhancement successfully addressed all course outcomes. Outcome 1 was achieved by creating a more collaborative environment through cloud-based data storage. Outcome 2 was demonstrated through clear code documentation and professional communication of the enhancement plan. Outcome 3 was met by evaluating and implementing trade-offs in choosing a cloud-based database solution. Outcome 4 was fulfilled by employing innovative techniques in modernizing the application's database structure. Unexpectedly, Outcome 5 was also addressed by implementing advanced security measures, showcasing a proactive security mindset in anticipating potential vulnerabilities. 
 
-[Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf)  
+[Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}  
 
-<iframe src="/assets/pdf/Enhancement%203%20Narrative.pdf" width="100%" height="600px"></iframe>{:target="_blank"}
-
+<iframe src="/assets/pdf/Enhancement%203%20Narrative.pdf" width="100%" height="600px"></iframe>
 ## Fully Enhanced Artifact
 
 The enhanced application is avaiable here:  
-[Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499)
+[Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499){:target="_blank"}
 
 Screenshot demonstrations of the new application can be seen here:  
 [Enhanced Application Walkthrough](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf){:target="_blank"}

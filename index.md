@@ -1,10 +1,5 @@
 {% include sidebar.html %}
-<style>
-    body {
-        color: #000;
-        font-weight: 300;
-    }
-</style>
+
 
 # Professional Self-Assessment  
 
@@ -53,7 +48,7 @@ The enhancement showcased many computer science skills, including full-stack dev
 The enhancement directly addressed and met course outcomes focused on designing computing solutions following algorithmic principles and implementing computing solutions meeting industry standards. By refactoring the codebase and migrating to Kotlin, this showcased the ability to manage design trade-offs and utilize well-founded techniques in refactoring the code into distinct layers, creating more modularity in the codebase.  
 
 #### [Full Enhancement 1 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%201%20Narrative.pdf){:target="_blank"}  
-<iframe src="/assets/pdf/Enhancement%201%20Narrative.pdf" width="100%" height="600px"></iframe>  
+<iframe src="/assets/pdf/Enhancement%201%20Narrative.pdf" width="100%" height="500px"></iframe>  
 
 # Enhancement 2: Algorithms and Data Structures  
 
@@ -73,7 +68,7 @@ The enhancement successfully met course outcomes by demonstrating critical think
 
 #### [Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf){:target="_blank"}  
 
-<iframe src="/assets/pdf/Enhancement%202%20Narrative.pdf" width="100%" height="600px"></iframe>  
+<iframe src="/assets/pdf/Enhancement%202%20Narrative.pdf" width="100%" height="500px"></iframe>  
 
 # Enhancement 3: Databases  
 
@@ -98,7 +93,7 @@ The database enhancement successfully addressed all course outcomes:
 
 #### [Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}    
 
-<iframe src="/assets/pdf/Enhancement%203%20Narrative.pdf" width="100%" height="600px"></iframe>
+<iframe src="/assets/pdf/Enhancement%203%20Narrative.pdf" width="100%" height="500px"></iframe>
 
 
 ## The Final Product  

@@ -1,7 +1,8 @@
 {% include sidebar.html %}
 <style>
     body {
-        color: #000; /* Darker text */
+        color: #000;
+        font-weight: 500;
     }
 </style>
 

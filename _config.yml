@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 theme: jekyll-theme-modernist
-title: Brad Wells` ePortfolio # the website title (if blank, full name will be used instead)
+title: Brad Wells` Portfolio # the website title (if blank, full name will be used instead)
 first_name: Brad  
 middle_name:
 last_name: Wells
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description:  # the ">" symbol means to ignore newlines until "footer_text:"
-  Computer Science portfolio built as part of the Computer Science Capstone Course while attending SNHU
+  Southern New Hampshire Univeristy-Computer Science Capstone Course 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

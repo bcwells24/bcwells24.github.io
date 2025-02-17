@@ -89,11 +89,11 @@ The enhancement showcased a range of advanced skills in mobile and backend devel
 
 **Course Outcomes**  
 The database enhancement successfully addressed all course outcomes:  
-- **Outcome 1** was achieved by creating a more collaborative environment through cloud-based data storage.  
-- **Outcome 2** was demonstrated through clear code documentation and professional communication of the enhancement plan.  
-- **Outcome 3** was met by evaluating and implementing trade-offs in choosing an appropriate cloud-based database solution.  
-- **Outcome 4** was fulfilled by employing innovative techniques in modernizing the application's database structure.  
-- **Outcome 5**, while originally unplanned, was also addressed by implementing advanced security measures. This showcased a proactive security mindset by anticipating potential vulnerabilities that were discovered during the enhancement process.  
+- Outcome 1 was achieved by creating a more collaborative environment through cloud-based data storage.  
+- Outcome 2 was demonstrated through clear code documentation and professional communication of the enhancement plan.  
+- Outcome 3 was met by evaluating and implementing trade-offs in choosing an appropriate cloud-based database solution.  
+- Outcome 4 was fulfilled by employing innovative techniques in modernizing the application's database structure.  
+- Outcome 5, while originally unplanned, was also addressed by implementing advanced security measures. This showcased a proactive security mindset by anticipating potential vulnerabilities that were discovered during the enhancement process.  
 
 #### [Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}    
 
@@ -108,34 +108,3 @@ The database enhancement successfully addressed all course outcomes:
 
 
 ##### [Screenshot Demonstrations of the New Application](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf){:target="_blank"}  
-
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <style>
-        body { display: flex; font-family: Arial, sans-serif; }
-        #sidebar { width: 200px; background: #f4f4f4; padding: 15px; height: 100vh; position: fixed; }
-        #content { margin-left: 220px; padding: 20px; }
-        a { text-decoration: none; color: #333; }
-    </style>
-</head>
-<body>
-    <div id="sidebar">
-        <h3>Navigation</h3>
-        <ul>
-            <li><a href="#professional-self-assessment">Professional Self-Assessment</a></li>
-            <li><a href="#course-outcomes">Course Outcomes</a></li>
-            <li><a href="#the-artifact">The Artifact</a></li>
-            <li><a href="#enhancement-1">Enhancement 1</a></li>
-            <li><a href="#enhancement-2">Enhancement 2</a></li>
-            <li><a href="#enhancement-3">Enhancement 3</a></li>
-            <li><a href="#final-product">Final Product</a></li>
-        </ul>
-    </div>
-    <div id="content">
-        {{ content }}
-    </div>
-</body>
-</html>

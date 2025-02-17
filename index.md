@@ -2,7 +2,7 @@
 
 # Professional Self-Assessment  
 
-My journey with computer science started in 2018 when I took an introductory course at my local community college. I did not learn how to code but gained an understanding of the most basic concepts. I re-enrolled in college in 2023 at Southern New Hampshire University in the Computer Science program. Since then, I have been rigorously pursuing the curriculum, which has culminated in this ePortfolio.  
+**My journey with computer science started in 2018 when I took an introductory course at my local community college. I did not learn how to code but gained an understanding of the most basic concepts. I re-enrolled in college in 2023 at Southern New Hampshire University in the Computer Science program. Since then, I have been rigorously pursuing the curriculum, which has culminated in this ePortfolio.**
 
 Completing my computer science coursework and developing an ePortfolio has strengthened my technical skills, shaped my professional goals, and prepared me for a successful career. Despite being an online program, I have had the opportunity to collaborate with hundreds of other students and learn from them, as well as from professors offering an incredibly wide range of expertise and experience.  
 

@@ -29,6 +29,7 @@ The work on this artifact included reviewing the artifact, creating a plan, and 
 
 #### [Code Review Video](https://youtu.be/Ts-C0oCHXqg){:target="_blank"}  
 
+
 # Enhancement 1: Software Design and Engineering  
 
 **Improvements**  
@@ -77,5 +78,6 @@ The application was significantly improved by replacing the local SQLite databas
 ## The Final Product  
 
 #### [Fully Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499){:target="_blank"}  
+
 
 ##### [Screenshot Demonstrations of the New Application](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf){:target="_blank"}  

@@ -6,7 +6,7 @@ title: Brad Wells` ePortfolio # the website title (if blank, full name will be u
 first_name: Brad  
 middle_name:
 last_name: Wells
-contact_note: >
+contact_note: email: bradley.wells@snhu.edu
   You can even add a little note about which of these is the best way to reach you.
 description:  # the ">" symbol means to ignore newlines until "footer_text:"
   Computer Science portfolio built as part of the Computer Science Capstone Course while attending SNHU

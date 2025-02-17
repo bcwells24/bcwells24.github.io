@@ -5,7 +5,7 @@
 - [Enhancement 1: Software Design and Engineering](#enhancement-1-software-design-and-engineering)
 - [Enhancement 2: Algorithms and Data Structures](#enhancement-2-algorithms-and-data-structures)
 - [Enhancement 3: Databases](#enhancement-3-databases)
-- [Final Product](#final-product)
+- [The Final Product](#the-final-product)  
 
 # Professional Self-Assessment  
 
@@ -65,7 +65,10 @@ This enhancement significantly improved the artifact by adding search and sort f
 Implementing the enhancement presented multiple challenges, including developing intuitive search logic that allows partial matches, like finding "Green Beans" when searching for "Beans." I also struggled with refreshing algorithmic knowledge after time away from formal data structures studies. Integrating new algorithms with the existing codebase while ensuring a smooth user interface functionality proved complex, requiring careful consideration of time complexity and memory usage trade-offs.  
 
 **Skills Demonstrated**  
-The enhancement showcased advanced technical skills in data structure implementation, algorithm design, and problem-solving. By utilizing HashMap for efficient searching and Heap Sort for optimized sorting, proficiency in selecting and implementing appropriate algorithms for specific use cases was demonstrated.  
+The enhancement showcased advanced technical skills in data structure implementation, algorithm design, and problem-solving. By utilizing HashMap for efficient searching and Heap Sort for optimized sorting, proficiency in selecting and implementing appropriate algorithms for specific use cases was demonstrated. The project highlighted abilities in code integration, modular design, and creating user-centric functionality that balances technical performance with practical usability.  
+
+**Course Outcomes**  
+The enhancement successfully met course outcomes by demonstrating critical thinking in algorithm selection, creating adaptable solutions, and implementing software engineering practices. The ability to evaluate algorithmic trade-offs, design efficient search solutions, and maintain a security-focused approach to software development was showcased. These outcomes were achieved through thoughtful implementation of HashMap and Heap Sort algorithms, with careful attention to performance and user experience. 
 
 #### [Features Video](https://youtu.be/OMkE3mFA_lc){:target="_blank"}  
 
@@ -76,13 +79,28 @@ The enhancement showcased advanced technical skills in data structure implementa
 # Enhancement 3: Databases  
 
 **Improvements**  
-The application was significantly improved by replacing the local SQLite database with a cloud-based NoSQL Firestore database. This migration enabled real-time inventory tracking for multiple users, increased schema flexibility, and improved scalability.  
+The application was significantly improved by replacing the local SQLite database with a cloud-based NoSQL Firestore database. This migration enabled real-time inventory tracking for multiple users, increased schema flexibility, and improved scalability. The enhancement also addressed a critical security vulnerability by implementing AES-GCM encryption for password storage, utilizing Android's Keystore system for secure key management. These changes transformed the application from a device-specific tool into a more versatile, secure, and collaborative platform.  
 
-#### [Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}  
+**Challenges Encountered**  
+While migrating to Firestore was relatively straightforward due to Google's well-documented integration process, implementing robust security measures presented challenges. I faced complexities in managing encryption keys, integrating the Android Keystore System, and ensuring secure key storage and retrieval. Debugging issues related to cryptographic operations required revisiting fundamental security principles and Android security APIs. Additionally, testing the application's performance with large datasets necessitated creating a script to seed the database with mock data, which required recalling and applying knowledge from previous coursework in full-stack development.  
 
-#### [Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}  
+**Skills Demonstrated**  
+The enhancement showcased a range of advanced skills in mobile and backend development. These include proficiency in database management across relational and non-relational paradigms, cloud integration with Firebase, and implementation of real-time data syncing. The project demonstrated expertise in cryptography by adding AES-GCM encryption for password protection and secure key management. Additionally, the ability to adapt to modern cloud-based architectures was highlighted. The creation of data seeding scripts further demonstrated an understanding of the Software Development Lifecycle and the necessity of adequate test data before deploying to a production environment.  
 
-<iframe src="/assets/pdf/Enhancement%203%20Narrative.pdf" width="100%" height="600px"></iframe>  
+**Course Outcomes**  
+The database enhancement successfully addressed all course outcomes:  
+- **Outcome 1** was achieved by creating a more collaborative environment through cloud-based data storage.  
+- **Outcome 2** was demonstrated through clear code documentation and professional communication of the enhancement plan.  
+- **Outcome 3** was met by evaluating and implementing trade-offs in choosing an appropriate cloud-based database solution.  
+- **Outcome 4** was fulfilled by employing innovative techniques in modernizing the application's database structure.  
+- **Outcome 5**, while originally unplanned, was also addressed by implementing advanced security measures. This showcased a proactive security mindset by anticipating potential vulnerabilities that were discovered during the enhancement process.  
+
+#### [Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}    
+
+#### [Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}    
+
+<iframe src="/assets/pdf/Enhancement%203%20Narrative.pdf" width="100%" height="600px"></iframe>
+
 
 ## The Final Product  
 

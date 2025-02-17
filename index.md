@@ -100,4 +100,4 @@ The database enhancement successfully addressed all course outcomes:
 #### [Fully Enhanced Inventory Application Artifact](https://github.com/bcwells24/CS499){:target="_blank"}  
 
 
-##### [Screenshot Demonstrations of the New Application](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf){:target="_blank"}  
+#### [Screenshot Demonstrations of the New Application](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Feature%20Walkthrough.pdf){:target="_blank"}  

@@ -1,7 +1,7 @@
 {% include sidebar.html %}
 <style>
     body {
-        color: #222; /* Darker text */
+        color: #C20404; /* Darker text */
     }
 </style>
 

@@ -2,7 +2,7 @@
 <style>
     body {
         color: #000;
-        font-weight: 500;
+        font-weight: 501;
     }
 </style>
 

@@ -3,15 +3,15 @@
 
 # Professional Self-Assessment  
 
-My journey with computer science started in 2018 when I took an introductory course at my local community college. I did not learn how to code but gained an understanding of the most basic concepts. I re-enrolled in college in 2023 at Southern New Hampshire University in the Computer Science program. Since then, I have been rigorously pursuing the curriculum, which has culminated in this ePortfolio.
+My journey with computer science started in 2018 when I took an introductory course at my local community college. I did not learn how to code but gained an understanding of the most basic concepts. I re-enrolled in college in 2023 at Southern New Hampshire University in the Computer Science program. Since then, I have been rigorously pursuing the curriculum, which has culminated in this portfolio.
 
-Completing my computer science coursework and developing an ePortfolio has strengthened my technical skills, shaped my professional goals, and prepared me for a successful career. Despite being an online program, I have had the opportunity to collaborate with hundreds of other students and learn from them, as well as from professors offering an incredibly wide range of expertise and experience.  
+Completing my computer science coursework and developing a portfolio has strengthened my technical skills, shaped my professional goals, and prepared me for a successful career. Despite being an online program, I have had the opportunity to collaborate with hundreds of other students and learn from them, as well as from professors offering an incredibly wide range of expertise and experience.  
 
 Communicating with stakeholders became a key competency as I presented project proposals, documented code, and explained technical concepts to non-technical audiences. Generally, this stakeholder involvement was in the form of understanding project requirements and asking questions when necessary. My work in Client-Server Development revolved around this communication in understanding the requirements for Grazioso Salvare, an animal rescue/training entity.  
 
 This software engineering and database coursework provided hands-on experience in full-stack development, relational database design, and CRUD operations, ensuring I can build and maintain applications. Security principles, including encryption and authentication, helped me understand how to develop secure software solutions, which I implemented in Full-Stack Development by building a web application for Travlr Getaways, an online travel agency.  
 
-These experiences, beyond the artifacts presented here in my ePortfolio, have refined my ability to collaborate, communicate effectively, and apply core computer science principles, preparing me for more technical work in my field. The enhancements presented here are the culmination of the Computer Science program at SNHU.  
+These experiences, beyond the artifacts presented in this portfolio, have refined my ability to collaborate, communicate effectively, and apply core computer science principles, preparing me for more technical work in my field. The enhancements presented here are the culmination of the Computer Science program at SNHU.  
 
 ### Course Outcomes  
 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  

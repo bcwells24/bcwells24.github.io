@@ -1,14 +1,5 @@
 {% include sidebar.html %}
 
-## Table of Contents
-- [Professional Self-Assessment](#professional-self-assessment)
-- [Course Outcomes](#course-outcomes)
-- [The Artifact](#the-artifact)
-- [Enhancement 1: Software Design and Engineering](#enhancement-1-software-design-and-engineering)
-- [Enhancement 2: Algorithms and Data Structures](#enhancement-2-algorithms-and-data-structures)
-- [Enhancement 3: Databases](#enhancement-3-databases)
-- [The Final Product](#the-final-product)  
-
 # Professional Self-Assessment  
 
 My journey with computer science started in 2018 when I took an introductory course at my local community college. I did not learn how to code but gained an understanding of the most basic concepts. I re-enrolled in college in 2023 at Southern New Hampshire University in the Computer Science program. Since then, I have been rigorously pursuing the curriculum, which has culminated in this ePortfolio.  

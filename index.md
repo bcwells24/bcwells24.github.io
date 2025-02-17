@@ -1,6 +1,3 @@
---- layout: default ---
---- title: Portfolio ---
-
 ## Table of Contents
 - [Professional Self-Assessment](#professional-self-assessment)
 - [Course Outcomes](#course-outcomes)

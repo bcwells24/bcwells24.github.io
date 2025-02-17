@@ -87,7 +87,7 @@ The database enhancement successfully addressed all course outcomes:
 - Outcome 2 was demonstrated through clear code documentation and professional communication of the enhancement plan.  
 - Outcome 3 was met by evaluating and implementing trade-offs in choosing an appropriate cloud-based database solution.  
 - Outcome 4 was fulfilled by employing innovative techniques in modernizing the application's database structure.  
-- Outcome 5, while originally unplanned, was also addressed by implementing advanced security measures. This showcased a proactive security mindset by anticipating potential vulnerabilities that were discovered during the enhancement process.  
+- Outcome 5, though initially unplanned, was addressed by implementing advanced security measures. This showcased a proactive security mindset by anticipating potential vulnerabilities that were discovered during the enhancement process.  
 
 #### [Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}    
 

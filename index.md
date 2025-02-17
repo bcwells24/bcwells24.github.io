@@ -1,3 +1,5 @@
+{% include sidebar.html %}
+
 ## Table of Contents
 - [Professional Self-Assessment](#professional-self-assessment)
 - [Course Outcomes](#course-outcomes)

@@ -1,4 +1,9 @@
 {% include sidebar.html %}
+<style>
+    body {
+        color: #222; /* Darker text */
+    }
+</style>
 
 # Professional Self-Assessment  
 

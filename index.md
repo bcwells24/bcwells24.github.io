@@ -31,6 +31,7 @@ The work on this artifact included reviewing the artifact, creating a plan, and 
 #### [Original Enhancement Plan](https://github.com/bcwells24/bcwells24.github.io/blob/main/assets/pdf/Artifact%20Enhancement%20Plan.pdf){:target="_blank"}  
 
 #### [Code Review Video](https://youtu.be/Ts-C0oCHXqg){:target="_blank"}  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ts-C0oCHXqg?si=CQ8jUm-ZGWD9N5gC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 # Enhancement 1: Software Design and Engineering  
@@ -90,7 +91,8 @@ The database enhancement successfully addressed all course outcomes:
 - Outcome 4 was fulfilled by employing innovative techniques in modernizing the application's database structure.  
 - Outcome 5, though initially unplanned, was addressed by implementing advanced security measures. This showcased a proactive security mindset by anticipating potential vulnerabilities that were discovered during the enhancement process.  
 
-#### [Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}    
+#### [Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DrQfarP1rtg?si=-vRXR1G5oFFN0hQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### [Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}    
 

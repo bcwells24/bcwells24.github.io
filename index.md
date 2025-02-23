@@ -65,6 +65,7 @@ The enhancement showcased advanced technical skills in data structure implementa
 The enhancement successfully met course outcomes by demonstrating critical thinking in algorithm selection, creating adaptable solutions, and implementing software engineering practices. The ability to evaluate algorithmic trade-offs, design efficient search solutions, and maintain a security-focused approach to software development was showcased. These outcomes were achieved through thoughtful implementation of HashMap and Heap Sort algorithms, with careful attention to performance and user experience. 
 
 #### [Features Video](https://youtu.be/OMkE3mFA_lc){:target="_blank"}  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMkE3mFA_lc?si=oEGmv_MrRji-FDYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### [Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf){:target="_blank"}  
 

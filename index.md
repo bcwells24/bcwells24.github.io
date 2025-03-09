@@ -30,10 +30,6 @@ The work on this artifact included reviewing the artifact, creating a plan, and 
 
 #### [Original Enhancement Plan](https://github.com/bcwells24/bcwells24.github.io/blob/main/assets/pdf/Artifact%20Enhancement%20Plan.pdf){:target="_blank"}  
 
-#### [Code Review Video](https://youtu.be/Ts-C0oCHXqg){:target="_blank"}  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ts-C0oCHXqg?si=CQ8jUm-ZGWD9N5gC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 # Enhancement 1: Software Design and Engineering  
 
 **Improvements**  
@@ -65,8 +61,6 @@ The enhancement showcased advanced technical skills in data structure implementa
 **Course Outcomes**  
 The enhancement successfully met course outcomes by demonstrating critical thinking in algorithm selection, creating adaptable solutions, and implementing software engineering practices. The ability to evaluate algorithmic trade-offs, design efficient search solutions, and maintain a security-focused approach to software development was showcased. These outcomes were achieved through thoughtful implementation of HashMap and Heap Sort algorithms, with careful attention to performance and user experience. 
 
-#### [Features Video](https://youtu.be/OMkE3mFA_lc){:target="_blank"}  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OMkE3mFA_lc?si=oEGmv_MrRji-FDYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### [Full Enhancement 2 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%202%20Narrative.pdf){:target="_blank"}  
 
@@ -90,9 +84,6 @@ The database enhancement successfully addressed all course outcomes:
 - Outcome 3 was met by evaluating and implementing trade-offs in choosing an appropriate cloud-based database solution.  
 - Outcome 4 was fulfilled by employing innovative techniques in modernizing the application's database structure.  
 - Outcome 5, though initially unplanned, was addressed by implementing advanced security measures. This showcased a proactive security mindset by anticipating potential vulnerabilities that were discovered during the enhancement process.  
-
-#### [Features Video](https://youtu.be/DrQfarP1rtg){:target="_blank"}  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DrQfarP1rtg?si=-vRXR1G5oFFN0hQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### [Full Enhancement 3 Narrative](https://github.com/bcwells24/CS499/blob/main/Enhancement%20Narratives/Enhancement%203%20Narrative.pdf){:target="_blank"}    
 
